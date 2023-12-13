@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "COSMOS_CONNECTION": "",
+    "AZURE_OPENAI_ENDPOINT": "",
+    "AZURE_OPENAI_API_KEY": "",
+    "AI_SEARCH_ENDPOINT": "",
+    "AI_SEARCH_ADMIN_KEY": "",
+    "AI_SEARCH_QUERY_KEY": ""
+  }
+}

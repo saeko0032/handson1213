@@ -1,0 +1,3 @@
+### data ingestor
+POST http://localhost:7071/api/data/upload_json
+

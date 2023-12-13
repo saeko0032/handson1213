@@ -1,0 +1,4 @@
+azure-cosmos
+azure-functions
+azure-search-documents==11.4.0
+openai==1.3.*
